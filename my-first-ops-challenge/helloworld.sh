@@ -2,8 +2,8 @@
 
 # Script Name:                  helloworld
 # Author:                       Joaquin Cortes
-# Date of latest revision:      00/00/0000
-# Purpose:                      Purpose
+# Date of latest revision:      11/30/2023
+# Purpose:                      Print something on the screen
 
 # Declaration of variables
 
